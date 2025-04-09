@@ -2,7 +2,6 @@
 - 👀 I’m interested in Multimodality, Computer Vision and NLP
 - 🌱 I’m currently working with LLMs
 - 💞️ I’m looking forward to collaborate on Zero Shot agents and NLP Research
-- ⚡ Fun fact: Warning are future errors !!
 
 <!---
 zendesk-anshudaur/zendesk-anshudaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
